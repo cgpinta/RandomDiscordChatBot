@@ -1,6 +1,6 @@
 # Random Discord Chat Bot
 This is a Discord chat bot that will, in short, respond with a random message from a text channel you specify.
-Most of the time its responses won't make any sense(they are randomly chosen) but, when it responds accordingly, it can be pretty funny.
+Most of the time its responses won't make any sense(they are randomly chosen) but sometimes it can be pretty funny.
 
 When the bot starts it will:
 1. scan a specified channel for all its messages
