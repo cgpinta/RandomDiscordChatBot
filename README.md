@@ -9,10 +9,12 @@ When the bot starts it will:
 ## Setup
 1. Open bot.js and change botname to whatever you would like
 2. Create a file named "config.json" that is formatted the following way:
+      ```
       {
         "token":	"(Discord bot token goes here)",
         "clientId":	"(Discord bot client ID goes here)"
       }
+      ```
 3. In a text channel, use the command: /setchannels (talkchannel) (readchannel)
       - talkchannel is the channel that Matt will be able to respond to people in
       - readchannel is the channel that Matt will read all of its messages from
