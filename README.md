@@ -7,8 +7,8 @@ When the bot starts it will:
 2. respond to any messages that include it's name, Matt, in them. (this can be changed by changing the botname variable in bot.js)
 
 ## Setup
-1. Open bot.js and change botname to whatever you would like
-2. Create a file named "config.json" that is formatted the following way:
+1. Open bot.js and change botname (line 33) to whatever you would like
+2. Create a file named "config.json" in the same directory as bot.js that is formatted the following way:
       ```
       {
         "token":	"(Discord bot token goes here)",
